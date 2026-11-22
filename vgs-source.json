@@ -1,0 +1,25 @@
+{
+ "schema": "vgs-source/2",
+ "source_id": "vgs-covers-pc",
+ "updated": "2026-11-22T09:21:24+00:00",
+ "licence": {
+  "artwork_default": {
+   "redistribution": "unknown",
+   "attribution": "Box art from the LaunchBox Games Database community (gamesdb.launchbox-app.com). Artwork belongs to its publishers."
+  }
+ },
+ "shards": [
+  {
+   "platform": "dos",
+   "path": "manifest/dos.ee44efad.json",
+   "sha256": "ee44efad65484c1659598962f51580b358c6519d26da6dedbf53a9d5218b6b26",
+   "games": 23
+  },
+  {
+   "platform": "pc",
+   "path": "manifest/pc.2870e94d.json",
+   "sha256": "2870e94d1f7922f3b75253ca761450967d9db6245debe3f689ef405ad8819f18",
+   "games": 2327
+  }
+ ]
+}
